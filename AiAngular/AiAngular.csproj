@@ -116,6 +116,7 @@
     <Content Include="Connected Services\Application Insights\ConnectedService.json" />
     <Content Include=".deployment" />
     <Content Include="deploy.cmd" />
+    <Content Include="angular-cli.json" />
     <None Include="packages.config" />
     <Content Include="README.md" />
     <Content Include="src\assets\.gitkeep" />
